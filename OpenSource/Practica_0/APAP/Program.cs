@@ -6,7 +6,8 @@ namespace APAP
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            LeerNomina.ReadNomina();
+            Console.ReadLine();
         }
     }
 }
