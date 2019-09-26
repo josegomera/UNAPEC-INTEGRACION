@@ -1,0 +1,13 @@
+C:\Users\jose_\OneDrive\Escritorio\2019-3\Integracion_OpenSource\Practicas\OpenSource\Practica_1\FundApec\FundApec\bin\Debug\netcoreapp3.0\FundApec.exe
+C:\Users\jose_\OneDrive\Escritorio\2019-3\Integracion_OpenSource\Practicas\OpenSource\Practica_1\FundApec\FundApec\obj\Debug\netcoreapp3.0\FundApec.csprojAssemblyReference.cache
+C:\Users\jose_\OneDrive\Escritorio\2019-3\Integracion_OpenSource\Practicas\OpenSource\Practica_1\FundApec\FundApec\obj\Debug\netcoreapp3.0\FundApec.AssemblyInfoInputs.cache
+C:\Users\jose_\OneDrive\Escritorio\2019-3\Integracion_OpenSource\Practicas\OpenSource\Practica_1\FundApec\FundApec\obj\Debug\netcoreapp3.0\FundApec.AssemblyInfo.cs
+C:\Users\jose_\OneDrive\Escritorio\2019-3\Integracion_OpenSource\Practicas\OpenSource\Practica_1\FundApec\FundApec\bin\Debug\netcoreapp3.0\FundApec.deps.json
+C:\Users\jose_\OneDrive\Escritorio\2019-3\Integracion_OpenSource\Practicas\OpenSource\Practica_1\FundApec\FundApec\bin\Debug\netcoreapp3.0\FundApec.runtimeconfig.json
+C:\Users\jose_\OneDrive\Escritorio\2019-3\Integracion_OpenSource\Practicas\OpenSource\Practica_1\FundApec\FundApec\bin\Debug\netcoreapp3.0\FundApec.runtimeconfig.dev.json
+C:\Users\jose_\OneDrive\Escritorio\2019-3\Integracion_OpenSource\Practicas\OpenSource\Practica_1\FundApec\FundApec\bin\Debug\netcoreapp3.0\FundApec.dll
+C:\Users\jose_\OneDrive\Escritorio\2019-3\Integracion_OpenSource\Practicas\OpenSource\Practica_1\FundApec\FundApec\bin\Debug\netcoreapp3.0\FundApec.pdb
+C:\Users\jose_\OneDrive\Escritorio\2019-3\Integracion_OpenSource\Practicas\OpenSource\Practica_1\FundApec\FundApec\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\jose_\OneDrive\Escritorio\2019-3\Integracion_OpenSource\Practicas\OpenSource\Practica_1\FundApec\FundApec\obj\Debug\netcoreapp3.0\FundApec.csproj.CopyComplete
+C:\Users\jose_\OneDrive\Escritorio\2019-3\Integracion_OpenSource\Practicas\OpenSource\Practica_1\FundApec\FundApec\obj\Debug\netcoreapp3.0\FundApec.dll
+C:\Users\jose_\OneDrive\Escritorio\2019-3\Integracion_OpenSource\Practicas\OpenSource\Practica_1\FundApec\FundApec\obj\Debug\netcoreapp3.0\FundApec.pdb
