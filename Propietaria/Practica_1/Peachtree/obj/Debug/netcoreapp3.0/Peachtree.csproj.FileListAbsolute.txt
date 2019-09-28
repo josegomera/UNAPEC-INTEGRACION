@@ -1,0 +1,13 @@
+C:\Users\jose_\source\repos\Practica_1\Peachtree\bin\Debug\netcoreapp3.0\Peachtree.exe
+C:\Users\jose_\source\repos\Practica_1\Peachtree\obj\Debug\netcoreapp3.0\Peachtree.csprojAssemblyReference.cache
+C:\Users\jose_\source\repos\Practica_1\Peachtree\obj\Debug\netcoreapp3.0\Peachtree.AssemblyInfoInputs.cache
+C:\Users\jose_\source\repos\Practica_1\Peachtree\obj\Debug\netcoreapp3.0\Peachtree.AssemblyInfo.cs
+C:\Users\jose_\source\repos\Practica_1\Peachtree\bin\Debug\netcoreapp3.0\Peachtree.deps.json
+C:\Users\jose_\source\repos\Practica_1\Peachtree\bin\Debug\netcoreapp3.0\Peachtree.runtimeconfig.json
+C:\Users\jose_\source\repos\Practica_1\Peachtree\bin\Debug\netcoreapp3.0\Peachtree.runtimeconfig.dev.json
+C:\Users\jose_\source\repos\Practica_1\Peachtree\bin\Debug\netcoreapp3.0\Peachtree.dll
+C:\Users\jose_\source\repos\Practica_1\Peachtree\bin\Debug\netcoreapp3.0\Peachtree.pdb
+C:\Users\jose_\source\repos\Practica_1\Peachtree\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\jose_\source\repos\Practica_1\Peachtree\obj\Debug\netcoreapp3.0\Peachtree.csproj.CopyComplete
+C:\Users\jose_\source\repos\Practica_1\Peachtree\obj\Debug\netcoreapp3.0\Peachtree.dll
+C:\Users\jose_\source\repos\Practica_1\Peachtree\obj\Debug\netcoreapp3.0\Peachtree.pdb

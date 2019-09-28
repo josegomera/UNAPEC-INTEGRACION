@@ -24,7 +24,7 @@ namespace APEC
         var query = "SELECT Id, TipoRegistro, ClaveNomina, TipoDocumento, NoDocumento, MontoPagar, Cuenta FROM Nominas";
         using (var _dbContext = new ApecDbContext())
         {
-          var nomina = await _dbContext.Nominas.FromSql(query).ToListAsync();
+          var nomina = await _dbContext.Nominas.FromSqlRaw(query).ToListAsync();
 
           foreach (var item in nomina)
           {
