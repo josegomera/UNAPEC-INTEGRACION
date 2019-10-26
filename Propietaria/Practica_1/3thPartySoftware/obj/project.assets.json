@@ -6772,11 +6772,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jose_\\source\\repos\\Practica_1\\3thPartySoftware\\3thPartySoftware.csproj",
+      "projectUniqueName": "C:\\Users\\jose_\\OneDrive\\Escritorio\\2019-3\\Integracion_OpenSource\\Practicas\\Propietaria\\Practica_1\\3thPartySoftware\\3thPartySoftware.csproj",
       "projectName": "3thPartySoftware",
-      "projectPath": "C:\\Users\\jose_\\source\\repos\\Practica_1\\3thPartySoftware\\3thPartySoftware.csproj",
+      "projectPath": "C:\\Users\\jose_\\OneDrive\\Escritorio\\2019-3\\Integracion_OpenSource\\Practicas\\Propietaria\\Practica_1\\3thPartySoftware\\3thPartySoftware.csproj",
       "packagesPath": "C:\\Users\\jose_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jose_\\source\\repos\\Practica_1\\3thPartySoftware\\obj\\",
+      "outputPath": "C:\\Users\\jose_\\OneDrive\\Escritorio\\2019-3\\Integracion_OpenSource\\Practicas\\Propietaria\\Practica_1\\3thPartySoftware\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

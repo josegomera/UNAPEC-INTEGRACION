@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jose_\\source\\repos\\Practica_1\\Peachtree\\Peachtree.csproj": {}
+    "C:\\Users\\jose_\\OneDrive\\Escritorio\\2019-3\\Integracion_OpenSource\\Practicas\\Propietaria\\Practica_1\\Peachtree\\Peachtree.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jose_\\source\\repos\\Practica_1\\Peachtree\\Peachtree.csproj": {
+    "C:\\Users\\jose_\\OneDrive\\Escritorio\\2019-3\\Integracion_OpenSource\\Practicas\\Propietaria\\Practica_1\\Peachtree\\Peachtree.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jose_\\source\\repos\\Practica_1\\Peachtree\\Peachtree.csproj",
+        "projectUniqueName": "C:\\Users\\jose_\\OneDrive\\Escritorio\\2019-3\\Integracion_OpenSource\\Practicas\\Propietaria\\Practica_1\\Peachtree\\Peachtree.csproj",
         "projectName": "Peachtree",
-        "projectPath": "C:\\Users\\jose_\\source\\repos\\Practica_1\\Peachtree\\Peachtree.csproj",
+        "projectPath": "C:\\Users\\jose_\\OneDrive\\Escritorio\\2019-3\\Integracion_OpenSource\\Practicas\\Propietaria\\Practica_1\\Peachtree\\Peachtree.csproj",
         "packagesPath": "C:\\Users\\jose_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jose_\\source\\repos\\Practica_1\\Peachtree\\obj\\",
+        "outputPath": "C:\\Users\\jose_\\OneDrive\\Escritorio\\2019-3\\Integracion_OpenSource\\Practicas\\Propietaria\\Practica_1\\Peachtree\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

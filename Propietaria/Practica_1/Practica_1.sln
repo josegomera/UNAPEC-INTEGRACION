@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29324.140
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3thPartySoftware", "3thPartySoftware\3thPartySoftware.csproj", "{3998DC0F-2B06-4C68-AAAA-33C2AA116B4C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3thPartySoftware", "3thPartySoftware\3thPartySoftware.csproj", "{3998DC0F-2B06-4C68-AAAA-33C2AA116B4C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Peachtree", "Peachtree\Peachtree.csproj", "{38C78D13-D458-4F0B-9E88-E095944C1720}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Peachtree", "Peachtree\Peachtree.csproj", "{38C78D13-D458-4F0B-9E88-E095944C1720}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3thPartyApi", "3thPartyApi\3thPartyApi.csproj", "{DBD9E80C-FAFE-4CC6-B05D-6BCF385752A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeachTreeApi", "PeachTreeApi\PeachTreeApi.csproj", "{012DA02D-C798-4A67-B95D-3C2808980E5B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{38C78D13-D458-4F0B-9E88-E095944C1720}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38C78D13-D458-4F0B-9E88-E095944C1720}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38C78D13-D458-4F0B-9E88-E095944C1720}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBD9E80C-FAFE-4CC6-B05D-6BCF385752A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBD9E80C-FAFE-4CC6-B05D-6BCF385752A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBD9E80C-FAFE-4CC6-B05D-6BCF385752A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBD9E80C-FAFE-4CC6-B05D-6BCF385752A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{012DA02D-C798-4A67-B95D-3C2808980E5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{012DA02D-C798-4A67-B95D-3C2808980E5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{012DA02D-C798-4A67-B95D-3C2808980E5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{012DA02D-C798-4A67-B95D-3C2808980E5B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
