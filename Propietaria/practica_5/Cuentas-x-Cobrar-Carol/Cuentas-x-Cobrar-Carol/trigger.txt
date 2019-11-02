@@ -1,0 +1,23 @@
+﻿CREATE TRIGGER facturaTr 
+ON FaturaDB.dbo.Facturas
+AFTER INSERT AS 
+BEGIN
+	INSERT INTO Triggered_Database.[dbo].Facturas(Cliente, Producto, Vendedor, Valor, TipoTransaccion ) 
+	SELECT
+	Cliente,
+	Producto,
+	Vendedor,
+	Valor,
+	TipoTransaccion 
+	FROM
+	inserted i
+END
+
+
+{
+	"Cliente":"Jose Gomera",
+	"Vendedor":"Eddy balbuena",
+	"Producto":"Mitolin",
+	"Valor":550,
+	"TipoTransaccion":1
+}
